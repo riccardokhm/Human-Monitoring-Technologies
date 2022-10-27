@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/63868396/198398266-b702b8c5-e5cc-42d8-9f81-5f077faae56e.png" />
+</p>
+
+
 # Human Monitoring Technologies {HMT} - Health first of all!
-![Screenshot](Human Tracking Manikin.png)
 ## Introduction
 
 
