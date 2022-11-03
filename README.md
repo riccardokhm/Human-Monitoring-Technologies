@@ -3,7 +3,7 @@
 </p>
 
 
-# Human Monitoring Technologies {HMT} - Health first of all!
+# Human Monitoring Technologies - Health first of all!
 ## Introduction
 
 
