@@ -22,7 +22,7 @@ This repository represents a place where to share and concretely implement human
   ### AI Algorithms for Stress and pattern identification 
   <span style="color: red;">On going studies on AI algorithms for the on-time analysis of human-related physiological signals for the identification of stress condition or recursive pattern. Semantic correlation with perfomed task is a plus</span>
 
-  ### Empatica E4 EDA signal processing
+  ### BVP & EDA signal processing
   <span style="color: magenta;">Wavelet based artifact removal for electrodermal activity (EDA) signal or Blood Volume Pressure (BVP) as recorded from the Empatica E4 wristband or similar devices</span>
 
 
