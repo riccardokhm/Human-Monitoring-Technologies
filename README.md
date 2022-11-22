@@ -18,8 +18,9 @@ This repository represents a place where to share and concretely implement human
   ### Bangles Js / Puck js. 
   <span style="color: cyan;"> This project aims at using Espruino based open-source devices to track and monitor the human posture by creating an affordable technological motion capture setup and to give feedback or contextual alerts to operators with a GUI</span>
   
+  
   ### AI Algorithms for Stress and pattern identification 
-  <span style="color: magenta;">Research on AI algorithm for the on-time analysis of human-related physiological signals for the identification of stress condition or recursive pattern. Semantic </span>
+  <span style="color: red;">Research on AI algorithms for the on-time analysis of human-related physiological signals for the identification of stress condition or recursive pattern. Semantic </span>
 
   ### Empatica E4 EDA signal processing
 
