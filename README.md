@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/63868396/198398266-b702b8c5-e5cc-42d8-9f81-5f077faae56e.png" />
-</p>
+![Heading Image](/Images/Human%20Tracking%20Manikin.png)
 
 
 # Human Monitoring Technologies - Health first of all!
