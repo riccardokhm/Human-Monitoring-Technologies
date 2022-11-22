@@ -11,11 +11,18 @@ Moreover, the new advances in information technologies, such as the diffusion of
 
 ## Objective 
 
-This repository represents a place where to share and concretely implement your human monitoring technologies (both hardware and software) according to your needs. AI, smart wearables sensors, improved human tracking algorithms, VR/AR, neural interfaces are just some of the main topics and today challenges: do not hesitate to share your ideas or propose new projects/technologies. 
+This repository represents a place where to share and concretely implement human monitoring technologies (both hardware and software) for the factory of the future and beyond. AI, smart wearables sensors, improved human tracking algorithms, VR/AR, neural interfaces are just some of the main topics and today challenges: do not hesitate to share your ideas or propose new projects/technologies. 
+
+## Projects
+
+  ### Bangles Js / Puck js.
+  
 
 ## Interesting readings.
+
 If you do not know where to start, you could find some interesting readings at [TOBECOMPLETED] : please feel free to add your contribution!
 
 
 ## References
+
 [1] https://research-and-innovation.ec.europa.eu/research-area/industrial-research-and-innovation/industry-50_en
