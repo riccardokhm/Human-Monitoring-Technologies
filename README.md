@@ -1,6 +1,6 @@
-<p > 
-  <img align="center" src="https://github.com/riccardokhm/Human-Monitoring-Technologies/blob/main/Images/Human_Tracking_Manikin.png">
-<p>
+<p align="center"> 
+  <img  src="https://github.com/riccardokhm/Human-Monitoring-Technologies/blob/main/Images/Human_Tracking_Manikin.png">
+</p>
 
 # Human Monitoring Technologies - Health first of all!
 ## **Introduction**
