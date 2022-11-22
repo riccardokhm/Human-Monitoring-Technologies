@@ -15,7 +15,7 @@ This repository represents a place where to share and concretely implement human
 
 ## **Projects**
 
-  ### Bangles Js / Puck js. 
+   ### [Bangle&Puck Js](/Projects/Bangle&Puck Js/README.md)
   <span style="color: cyan;"> This project aims at using Espruino based open-source devices to track and monitor the human posture by creating an affordable technological motion capture setup and to give feedback or contextual alerts to operators with a GUI</span>
   
   
