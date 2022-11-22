@@ -12,17 +12,21 @@ Moreover, the new advances in information technologies, such as the diffusion of
 
 This repository represents a place where to share and concretely implement human monitoring technologies (both hardware and software) for the factory of the future and beyond. AI, smart wearables sensors, improved human tracking algorithms, VR/AR, neural interfaces are just some of the main topics and today challenges: do not hesitate to share your ideas or propose new projects/technologies. 
 
+
 ## **Projects**
 
-  ### Bangles Js / Puck js.
+  ### Bangles Js / Puck js. 
+  <span style="color: cyan;"> This project aims at using Espruino based open-source devices to track and monitor the human posture by creating an affordable technological motion capture setup and to give feedback or contextual alerts to operators with a GUI</span>
   
   ### AI Algorithms for Stress and pattern identification 
+  <span style="color: magenta;">Research on AI algorithm for the on-time analysis of human-related physiological signals for the identification of stress condition or recursive pattern. Semantic </span>
 
   ### Empatica E4 EDA signal processing
 
+
 ## **Interesting readings**
 
-Please feel free to add your contribution by suggesting interesting readings!
+Please feel free to add your contribution by suggesting interesting readings in the specific directory.
 
 
 ## **References**
