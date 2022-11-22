@@ -1,4 +1,4 @@
-![Heading Image](/Images/Human%20Tracking%20Manikin.png)
+![Heading Image](/Images/Human_Tracking_Manikin.png)
 
 
 # Human Monitoring Technologies - Health first of all!
