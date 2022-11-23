@@ -26,7 +26,7 @@ This repository represents a place where to share and concretely implement human
 
    BVP & EDA signal processing
    -------------------------------
-  <font color="red">Wavelet based artifact removal for electrodermal activity (EDA) signal or Blood Volume Pressure (BVP) as recorded from the Empatica E4 wristband or similar devices</font>
+  <font color="magenta">Wavelet based artifact removal for electrodermal activity (EDA) signal or Blood Volume Pressure (BVP) as recorded from the Empatica E4 wristband or similar devices</font>
 
 
 ## **Interesting readings**
