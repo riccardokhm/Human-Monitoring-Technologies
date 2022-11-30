@@ -1,4 +1,4 @@
-export  var prova={}
+export var prova={}
 export var _happyIcon = {
         width : 176, height : 176, bpp : 16,
         transparent : 0,
