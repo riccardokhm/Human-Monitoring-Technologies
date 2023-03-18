@@ -1,8 +1,5 @@
 <a href="https://postgresql.org"><img src="https://img.shields.io/badge/Powered%20by-Unimore-red.svg"/></a>
 <a href="https://postgresql.org"><img src="https://img.shields.io/badge/Powered%20by-Xilab-green.svg"/></a>
-<a href="https://postgresql.org"><img src="https://img.shields.io/badge/Powered%20by-CSharp-blue.svg"/></a>
-<a href="https://postgresql.org"><img src="https://img.shields.io/badge/Powered%20by-Python-yellow.svg"/></a>
-<a href="https://postgresql.org"><img src="https://img.shields.io/badge/Powered%20by-Javascript-magenta.svg"/></a>
 
 
 <p align="center"> 
