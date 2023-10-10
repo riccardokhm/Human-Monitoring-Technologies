@@ -21,7 +21,7 @@ This repository represents a place where to share and concretely implement human
 
    Bangle&Puck Js
    -------------------------------
-  <span style="color: cyan;"> This project aims at using Espruino based open-source devices to track and monitor the human posture by creating an affordable technological motion capture setup and to give feedback or contextual alerts to operators with a GUI</span>
+  <span style="color: cyan;"> This project aims at using Espruino based open-source devices to track and monitor the human posture and physiological data by creating an affordable technological setup and to give feedback or contextual alerts to operators with a GUI</span>
   
   
    AI Algorithms for Stress and pattern identification
@@ -30,7 +30,7 @@ This repository represents a place where to share and concretely implement human
 
    BVP & EDA signal processing
    -------------------------------
-  <font color="magenta">Wavelet based artifact removal for electrodermal activity (EDA) signal or Blood Volume Pressure (BVP) as recorded from the Empatica E4 wristband or similar devices</font>
+  <font color="magenta">Artifact removal for electrodermal activity (EDA) signal or Blood Volume Pressure (BVP) as recorded from the Empatica E4 wristband or similar devices</font>
 
 
 ## **Interesting readings**
