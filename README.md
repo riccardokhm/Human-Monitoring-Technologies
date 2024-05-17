@@ -21,13 +21,6 @@ This repository represents a place where to share and concretely implement human
 
    ### Bangle&Puck Js
    This project aims at using Espruino based open-source devices to track and monitor the human posture and physiological data by creating an affordable technological setup and to give feedback or contextual alerts to operators with a GUI
-  
-  
-   ### AI Algorithms for Stress and pattern identification
-   On going studies on AI algorithms for the on-time analysis of human-related physiological signals for the identification of stress condition or recursive pattern. Semantic correlation with perfomed task is a plus
-
-   ### Physiological data signal processing
-  Signal processing script for electrodermal activity (EDA) signal, Blood Volume Pressure (BVP) or other physiological signals as recorded from the Empatica E4 wristband or similar devices
 
 
 ## **Interesting readings**
